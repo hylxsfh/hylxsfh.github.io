@@ -1,1 +1,1 @@
-{"P1": {"label": "invalid", "labelColor": "#e4e669", "postTitle": "Test", "postUrl": "post/Test.html", "createdDate": "2024-03-25", "dateLabelColor": "#bc4c00"}}
+{"P2": {"label": "log", "labelColor": "#0052cc", "postTitle": "Test log", "postUrl": "post/Test%20log.html", "createdDate": "2024-03-25", "dateLabelColor": "#bc4c00"}, "P1": {"label": "invalid", "labelColor": "#e4e669", "postTitle": "Test", "postUrl": "post/Test.html", "createdDate": "2024-03-25", "dateLabelColor": "#bc4c00"}}
