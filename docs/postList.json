@@ -1,1 +1,1 @@
-{"P2": {"label": "log", "labelColor": "#0052cc", "postTitle": "Test log", "postUrl": "post/Test%20log.html", "createdDate": "2024-03-25", "dateLabelColor": "#bc4c00"}}
+{"P2": {"labels": ["log"], "postTitle": "Test log", "postUrl": "post/Test%20log.html", "createdDate": "2024-03-25", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "log": "#0052cc", "question": "#d876e3", "wontfix": "#ffffff"}}
